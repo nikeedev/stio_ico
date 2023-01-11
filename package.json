@@ -1,0 +1,24 @@
+{
+  "name": "stio",
+  "displayName": "stio",
+  "description": "",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "showLanguageModeIcons": true,
+  "contributes": {
+    "languages": [
+      {
+        "id": "stio",
+        "icon": {
+          "light": "./icons/epple1600.png",
+          "dark": "./icons/epple1600.png"
+        }
+      }
+    ]
+  }
+}
