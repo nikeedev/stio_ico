@@ -2,7 +2,8 @@
   "name": "stio",
   "displayName": "stio",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "publisher": "nikeedev",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -13,7 +14,7 @@
   "contributes": {
     "languages": [
       {
-        "id": "stio",
+        "id": "stio_studio",
         "icon": {
           "light": "./icons/epple1600.png",
           "dark": "./icons/epple1600.png"
